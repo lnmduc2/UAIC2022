@@ -1,0 +1,5 @@
+FLOOR
+14
+TH
+14
+TẦNG

@@ -1,0 +1,4 @@
+SALE
+EXIT
+REVER
+21

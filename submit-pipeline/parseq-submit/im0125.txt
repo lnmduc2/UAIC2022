@@ -1,0 +1,4 @@
+Boarding
+Area
+6
+BERTH

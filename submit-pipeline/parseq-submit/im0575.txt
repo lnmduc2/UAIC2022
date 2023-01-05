@@ -1,0 +1,10 @@
+SHOPS
+DEPOT
+Kitchen
+Red
+Big
+Qualite
+WHERE
+STAUR
+Depot
+Restaurant
